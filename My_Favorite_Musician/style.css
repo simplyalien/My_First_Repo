@@ -5,11 +5,17 @@
     text-decoration: underline;
     color: white;
     background-color: black;
+    padding: 20px;
   }
 
   h2 {
     color: slategray;
     text-decoration: underline;
+    margin-top: 70px;
+  }
+
+  ol {
+    padding-top: 70px;
   }
 
   html {
@@ -28,4 +34,6 @@
     margin-left: auto;
     margin-right: auto;
     border: 5px solid #555;
+    padding: 05px;
+    margin-bottom: 20px;
   }
