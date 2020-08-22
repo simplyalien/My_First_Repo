@@ -1,0 +1,62 @@
+.nav {
+    height: 60px;
+    background-color: #f1f1f1;
+}
+
+.nav ul{
+    border: 1px solid #333;
+    padding: 0;
+}
+
+.nav li{
+    background-color: #777777;
+    display: inline-block;
+    padding: 20px 30px;
+    margin-left: 0;
+    color: white;
+}
+
+.left-side {
+    width: 29%;
+    float: left;
+}
+
+.pet-name img {
+    width: 50%;
+    margin-right: 10px;
+}
+
+.main-content {
+    width: 65%;
+    float: right;
+    }
+
+h1 {
+    text-align: center;
+}
+
+.main-content img {
+    width: 25%;
+    margin-right: 25px;
+}
+
+.action-heading {
+    clear: both;
+    padding: 40px 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.action-shot img {
+    width: 250px;
+    margin-right: 10px;
+    display: grid;
+}
+
+/* left stats section */
+
+.left-side {
+    border: 1px solid #333;
+    padding: 25px;
+}
+
