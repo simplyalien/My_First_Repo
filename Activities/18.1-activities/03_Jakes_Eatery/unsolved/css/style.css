@@ -45,11 +45,11 @@ button {
 }
 
 .right button {
-    background-color: yellow;
+    background-color: #AAB5F2;
 }
 
 .left button {
-    background-color: skyblue;
+    background-color:#E6ADD8;
 }
 /* Column styles */
 .column {
